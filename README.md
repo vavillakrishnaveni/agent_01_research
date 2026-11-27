@@ -1,4 +1,3 @@
-<img width="425" height="460" alt="Screenshot 2026-11-27 130335" src="https://github.com/user-attachments/assets/b00c4cb6-4191-42cd-bffc-88481eb51a93" />
 # Agent 01 — AI Research Assistant 🔍
 
 An AI Research Assistant built using Python and Google Gemini API. The application accepts a research topic and generates a structured research report with sections covering introduction, key concepts, applications, benefits, challenges, and conclusion.
